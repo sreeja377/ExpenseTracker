@@ -1,16 +1,13 @@
-1️⃣ Project Title (Top of README)
+
 # 💰 Expense Tracker (Java + MySQL)
 
-2️⃣ Short Project Description
+Short Project Description
 
 👉 What the project is + why it exists
 
 A console-based Expense Tracker application built using Java and MySQL.
 It helps users record, manage, and analyze daily expenses efficiently.
 
-3️⃣ Features
-
-👉 What your application can do
 
 ## ✨ Features
 
@@ -21,9 +18,7 @@ It helps users record, manage, and analyze daily expenses efficiently.
 - Monthly expense summary
 - Persistent storage using MySQL
 
-4️⃣ Technologies Used
 
-👉 Tools & languages you used
 
 ## 🛠️ Technologies Used
 
@@ -33,9 +28,6 @@ It helps users record, manage, and analyze daily expenses efficiently.
 - IntelliJ IDEA
 - Git & GitHub
 
-5️⃣ Project Structure
-
-👉 Folder layout (very important for interviews)
 
 ## 🗂️ Project Structure
 
@@ -51,9 +43,6 @@ ExpenseTracker/
 ├── README.md
 └── .gitignore
 
-6️⃣ Database Schema
-
-👉 Shows backend knowledge
 
 ## 🗄️ Database Schema
 
@@ -67,9 +56,6 @@ Table: expenses
 | amount       | DOUBLE |
 | expense_date | DATE |
 
-7️⃣ How to Run the Project
-
-👉 Most important section
 
 ## ⚙️ How to Run the Project
 
@@ -87,25 +73,26 @@ Run Main.java using IntelliJ IDEA
 
 ---
 
-## 8️⃣ Screenshots
 
-👉 **Visual proof of working project**
+## 📸 Project Screenshots
 
-```md
-## 📸 Screenshots
+### ➕ Add Expense
+![Add Expense](screenshots/add-expense.png)
 
-### Main Menu
-![Main Menu](screenshots/menu.png)
+### ➖️Delete Expense
+![Delete Expense](screenshots/delete-expense.png)
 
-### Add Expense
-![Add Expense](screenshots/add_expense.png)
+### 📄 View Expenses
+![View Expenses](screenshots/view-expenses.png)
 
-### View Expenses
-![View Expenses](screenshots/view_expenses.png)
+### 📊 Category-wise Report
+![Category Report](screenshots/categorywise-report.png)
 
-9️⃣ Future Enhancements
 
-👉 Shows thinking beyond basics
+### 📅 Monthly Summary
+![Monthly Summary](screenshots/monthly-summary.png)
+
+
 
 ## 🚀 Future Enhancements
 
@@ -114,9 +101,8 @@ Run Main.java using IntelliJ IDEA
 - Export reports to Excel/PDF
 - Cloud database integration
 
-🔟 Author
 
-👉 Always include your name
+
 
 ## 👩‍💻 Author
 
